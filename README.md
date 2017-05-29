@@ -4,6 +4,11 @@ Dimension is a single page and responsive site template. It is a port of [HTML5 
 
 ![Dimension Theme screenshot](https://raw.githubusercontent.com/sethmacleod/dimension/master/images/screenshot.png)
 
+## Changelog
+
+This fork adds ability to filter pages that are included in the index.html. Now only those that are in 'content/front' will be made into tabs.
+The fork from which I forked updates FontAwesome.
+
 ## Installation
 
 Run the following commands inside your Hugo site folder:
